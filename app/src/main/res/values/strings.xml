@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exercita_Recife</string>
+    <string name="title_text">Exercita Recife</string>
+    <string name="password_hint">Senha</string>
+    <string name="remember_check">Lembrar</string>
+    <string name="acess_button">Entrar</string>
+    <string name="register_text">Ainda não é membro?</string>
+    <string name="register_button">Cadastre-se</string>
+    <string name="register_text2">Cadastro</string>
+    <string name="name_hint">Nome</string>
+    <string name="email_hint">Email</string>
+    <string name="login_hint">Login</string>
+    <string name="register_button2">Cadastrar</string>
+    <string name="register_successful">Registro realizado com sucesso</string>
+    <string name="return_text">Clique aqui para voltar à tela de login</string>
+    <string name="home_text">Digite seu endereço e encontre lugares para se exercitar</string>
+    <string name="address_hint">Endereço</string>
+    <string name="search_button">Buscar</string>
+    <string name="nickname_hint">Apelido(opcional)</string>
+    <string name="return_bt">Voltar</string>
+</resources>

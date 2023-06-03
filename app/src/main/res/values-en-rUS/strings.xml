@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercises_Recife</string>
+    <string name="title_text">Exercises Recife</string>
+    <string name="password_hint">Password</string>
+    <string name="remember_check">Remember</string>
+    <string name="acess_button">Enter</string>
+    <string name="register_text">Not a member?</string>
+    <string name="register_button">Register</string>
+    <string name="register_text2">Register</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="login_hint">Login</string>
+    <string name="register_button2">Register</string>
+    <string name="register_successful">Register successful</string>
+    <string name="return_text">Click here to return to login screen</string>
+    <string name="home_text">Type your address and find places to work out</string>
+    <string name="address_hint">Address</string>
+    <string name="search_button">Search</string>
+    <string name="nickname_hint">Nickname(optional)</string>
+    <string name="return_bt">Return</string>
+</resources>

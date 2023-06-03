@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550145972790",
+    "project_id": "exercita-recife",
+    "storage_bucket": "exercita-recife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550145972790:android:2ed6a16abf0095bdc91697",
+        "android_client_info": {
+          "package_name": "com.example.exercita_recife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550145972790-ksv1eo7h5622292n4nh83loemnjaaums.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPfWoygVcQUlEkv7PfLWbEqkNIGHACH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550145972790-ksv1eo7h5622292n4nh83loemnjaaums.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
